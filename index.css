@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
 
 * {
   margin: 0%;
@@ -6,10 +6,15 @@
 }
 
 body {
-  font-family: 'Righteous', cursive;
+  font-family: "Righteous", cursive;
   /* background-color: rgb(156, 154, 159); */
   background: rgb(2, 0, 36);
-  background: linear-gradient(90deg, rgb(196, 222, 230) 0%, rgb(255, 255, 255) 41%, rgb(250, 252, 252) 43%);
+  background: linear-gradient(
+    90deg,
+    rgb(196, 222, 230) 0%,
+    rgb(255, 255, 255) 41%,
+    rgb(250, 252, 252) 43%
+  );
 }
 
 .nev-bar {
@@ -85,7 +90,7 @@ body {
   width: 500px;
   text-align: center;
   grid: 5px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 #mytext h4 {
@@ -134,7 +139,6 @@ body {
   padding-right: 5%;
   padding-top: 5%;
   padding-bottom: 15%;
-
 }
 
 .parent-img_3 {
@@ -152,13 +156,12 @@ body {
   padding-right: 5%;
   padding-top: 5%;
   padding-bottom: 15%;
-
 }
 
 .temp {
   margin-top: 5%;
   text-align: center;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .dropbtn {
@@ -192,7 +195,7 @@ body {
 }
 
 .dropdown-content a:hover {
-  background-color: transparent
+  background-color: transparent;
 }
 
 .dropdown:hover .dropdown-content {
