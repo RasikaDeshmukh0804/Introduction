@@ -40,10 +40,9 @@ body {
 }
 
 .nev-bar li a {
-  display: block;
   color: rgb (124, 117, 144);
   text-align: center;
-  padding: 12px 14px;
+  padding: 10px 10px;
   text-decoration: none;
   height: auto;
   width: auto;
