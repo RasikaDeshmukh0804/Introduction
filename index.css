@@ -104,14 +104,16 @@ body {
   justify-content: space-evenly;
   height:100%;
   grid-row: 5%;
+  margin-top: 5%;
 }
 
 .row6 {
   height:100%;
   width:100%;
-  grid-row: 5%;
   background-color: rgb(192, 241, 241);
   margin-top: 5%;
+  justify-self: center;
+  text-align: center;
 }
 
 .parent-img_1 {
