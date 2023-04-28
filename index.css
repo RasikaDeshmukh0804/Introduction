@@ -21,6 +21,7 @@ body {
   color: black;
   height: fit-content;
   width: fit-content;
+  float: left;
 }
 
 .logo-neg-ul {
@@ -59,12 +60,13 @@ body {
   font-size: 20px;
   height: auto;
   width: auto;
+  float: right;
 }
 
 .nev-bar-button {
   background-color: red;
   color: white;
-  width: 10%;
+  width: 5%;
   height: 10%;
   border-radius: 5px;
   border-color: aliceblue;
@@ -140,3 +142,7 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
+/* #brand{ */
+  /* display: flex; */
+  /* justify-content: space-around; */
+/* } */
